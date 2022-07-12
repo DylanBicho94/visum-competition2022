@@ -20,8 +20,8 @@ torch.manual_seed(42)
 
 
 # Constant variables
-BATCH_SIZE = 1
-NUM_EPOCHS = 1
+BATCH_SIZE = 4
+NUM_EPOCHS = 20
 IMG_SIZE = 1024
 VAL_MAP_FREQ = 1
 
